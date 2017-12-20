@@ -1,8 +1,0 @@
-title: Funouc.github.io
-description: Personal Page
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-slate
-
-gems:
-  - jekyll-mentions
