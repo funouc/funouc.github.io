@@ -10,14 +10,15 @@ url: "http://funouc.github.io"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: funouc
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
     weibo: 5366874726 
     github: funouc
-    # twitter: 
+    twitter: Funouc
+    google+:  夏德芳
     mail: xdfmm@qq.com
 
 # 百度统计 
@@ -28,7 +29,7 @@ baidu:
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
 ga:
-    id: UA-84134159-3   
+    id: UA-111427011-1   
     host: auto  
 
 
