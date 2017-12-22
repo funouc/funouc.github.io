@@ -10,7 +10,7 @@ url: "http://funouc.github.io"
 
 # Comment
 comment:
-    disqus: funouc
+    disqus: funouc.github.io
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
@@ -18,7 +18,7 @@ social:
     weibo: 5366874726 
     github: funouc
     twitter: Funouc
-    gplus:  夏德芳
+    gplus:  104824315904127017960
     mail: xdfmm@qq.com
 
 # 百度统计 
