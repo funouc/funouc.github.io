@@ -6,11 +6,11 @@ description: 工作学习生活
 avatarTitle: Fun
 # 头像里面的描述
 avatarDesc: 图像处理 / 机器学习
-url: "http://funouc.github.io"
+url: "https://funouc.github.io"
 
 # Comment
 comment:
-    disqus: funouc.github.io
+    disqus: funouc
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
